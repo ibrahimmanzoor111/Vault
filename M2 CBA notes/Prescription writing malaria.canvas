@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5dfdcea4f80346c7","type":"text","text":"[[ Prescription writing]] \nName: Bilal Tariq\nMD\nAddress: 962....ISB\n\nPatient name:\nAge: 20 y/o\nPatient address:\n\nH/o:\n- High grade Fever\n- Rigor \n- Chills\n- -2 days\n\nDx: \nMalaria\n\nAdvice:\n- Mosquito Net\n- Bed rest\n- Fluids\n\n","x":-197,"y":-313,"width":215,"height":693},
+		{"id":"589db427748393fe","type":"text","text":"Date: 25-10-2023","x":18,"y":-153,"width":180,"height":70},
+		{"id":"4ed11ac20d9603b4","type":"text","text":"Rx:\nTab.\nChloroquine\n(250mg)\n4 Tab. STAT\n2 Tab. 6 hourly\n1 Tab. x Twice Daily for two days\n\nTab.\nPanadol\n(500mg)\n2 Tab. x Thrice Daily x 7 days\n\nSignature","x":18,"y":-83,"width":180,"height":463}
+	],
+	"edges":[]
+}

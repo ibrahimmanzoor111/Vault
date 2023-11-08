@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e95b623301d0d641","type":"text","text":"[[ Prescription writing]] \nName: Bilal Tariq\nMD\nAddress: 962....ISB\n\nPatient name:\nAge: 30 y/o\nPatient address:\n\nH/o:\n- Fever\n- Bloody stool -2days\n\nDx: \nBacillary Dysentery\n\nAdvice:\n- Maintain hydration\n- Take soft and light diet\n\n","x":-220,"y":-440,"width":215,"height":626},
+		{"id":"2aa180c7654dc626","type":"text","text":"Date: 24-10-2023","x":-5,"y":-280,"width":180,"height":70},
+		{"id":"0038e2611bb63403","type":"text","text":"Rx:\nTab.\nAmpicillin\n(500mg)\n1 Tab. x Thrice Daily x 7 days\n\nTab.\nPanadol\n(500mg)\n2 Tab. x Thrice Daily x 7 days\n\nSignature","x":-5,"y":-210,"width":180,"height":396}
+	],
+	"edges":[]
+}

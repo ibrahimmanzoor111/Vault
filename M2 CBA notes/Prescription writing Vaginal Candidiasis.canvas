@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ebf2e484d6b94528","type":"text","text":"[[ Prescription writing]] \nName: Bilal Tariq\nMD\nAddress: 962....ISB\n\nPatient name: Amina abid\nAge: \nPatient address: Satellite Town, RWP\n\nH/o:\n- Vaginal itching and discharge\n- Redness\n\nDx: \nVaginal Candidiasis\n\nAdvice:\n- Improve Vaginal hygiene\n- Regular changing of undergarments\n\n","x":-197,"y":-346,"width":215,"height":886},
+		{"id":"615aa593cdb47bdb","type":"text","text":"Rx:\nClotrimazole\n(1% cream, 5g Intravaginally)\nNightly \n-14 days\n\n","x":18,"y":-116,"width":180,"height":463},
+		{"id":"9cd419725d03ebd1","x":-400,"y":-540,"width":820,"height":194,"type":"text","text":"Scenario\nA pregnant lady, during antenatal examination, complains of itching and discharge from vagina. On examination there is redness, swelling and cracks of vaginal walls with whitish material\nEffective group= Azoles\nP drug= Clotrimazole"},
+		{"id":"2208ac25bdf11276","type":"text","text":"Date: 26-10-2023","x":198,"y":-186,"width":180,"height":70},
+		{"id":"cb87892b86c66be0","x":198,"y":56,"width":250,"height":60,"type":"text","text":"Signature"}
+	],
+	"edges":[]
+}

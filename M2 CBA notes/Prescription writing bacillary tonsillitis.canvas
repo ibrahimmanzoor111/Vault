@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"c1f4443957449c6e","type":"text","text":"[[ Prescription writing]] \nName: \nMD\nAddress:\n\nPatient name:\nAge:\n\nH/o:\n- Fever\n- Sore throat\nAdvice:\n- Oral hygiene\n- Avoidance of cold beverages\n\n","x":-9,"y":-71,"width":169,"height":591},
+		{"id":"0b0dde46a2cd992c","type":"text","text":"Rx:\nSyrup Phenoxymethylpenicillin \n(125mg)\n2 tsf. x 6 hourly x 10 days\n\nSignature","x":160,"y":60,"width":180,"height":240},
+		{"id":"780245b25681266b","type":"text","text":"Date","x":160,"y":10,"width":180,"height":50}
+	],
+	"edges":[]
+}
